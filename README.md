@@ -40,5 +40,5 @@ This repository compiles resources for and of the neuroimaging community. Mostly
 - Brainhack.org
 
 # Books
--vStatistical Parametric Mapping
+- Statistical Parametric Mapping
 
