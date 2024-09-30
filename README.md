@@ -4,8 +4,10 @@ This repository compiles resources for and of the neuroimaging community. Mostly
 # Journals
 
 - [Imaging Neuroscience](https://direct.mit.edu/imag). The rising star - first volume seems promising.
-- [Neuroimage](https://www.sciencedirect.com/journal/neuroimage). Oh well.
+- [Neuroimage](https://www.sciencedirect.com/journal/neuroimage). 
 - Molecular Neuroscience
+- elife
+- neurolibre
 
 # Toolboxes and Software
 ## Toolboxes
@@ -17,6 +19,9 @@ This repository compiles resources for and of the neuroimaging community. Mostly
 
 ## Software
 - Freesurfer
+- FSL
+- SPM
+
   
 # Standards (BIDS)
 
@@ -31,6 +36,7 @@ This repository compiles resources for and of the neuroimaging community. Mostly
 - [Brainhack School](https://school.brainhackmtl.org/).
 - [Neurohackademy](https://neurohackademy.org/). Summer school at the Univeristy of Washington eScience Institute. Next cohort July 29th – August 10th, 2024, hybrid format.
 - Nipraxis Course
+- Andi's brain book
   
 # Conferences
 - Annual Meeting of the Organisation for Human Brain Mapping
